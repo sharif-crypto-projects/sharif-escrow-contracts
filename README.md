@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>GrantFox-Contracts</h1>
-  <p><strong>Smart contracts powering the GrantFox protocol and bounty distributions.</strong></p>
+  <h1>sharif-escrow-contracts</h1>
+  <p><strong>Smart contracts powering the Sharif protocol and bounty distributions.</strong></p>
 </div>
 
 <br />
 
 ## 📖 Overview
 
-GrantFox-Contracts is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
+sharif-escrow-contracts is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
 
 ## ✨ Key Features
 
@@ -26,8 +26,8 @@ GrantFox-Contracts is a critical component of our decentralized ecosystem. This 
 
 \\\ash
 # Clone the repository
-git clone https://github.com/YourOrganization/GrantFox-Contracts.git
-cd GrantFox-Contracts
+git clone https://github.com/YourOrganization/sharif-escrow-contracts.git
+cd sharif-escrow-contracts
 
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)

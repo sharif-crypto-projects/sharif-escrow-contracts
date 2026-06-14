@@ -1,7 +1,7 @@
 {
-  "name": "grantfox-contracts",
+  "name": "sharif-escrow-contracts",
   "version": "1.0.0",
-  "description": "Smart contracts powering the GrantFox protocol and bounty distributions.",
+  "description": "Smart contracts powering the Sharif protocol and bounty distributions.",
   "main": "index.js",
   "scripts": {
     "test": "echo "Error: no test specified" && exit 1"
