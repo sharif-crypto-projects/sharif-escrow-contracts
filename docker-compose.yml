@@ -1,0 +1,15 @@
+services:
+  contracts-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sharif-escrow-contracts-dev
+    volumes:
+      - .:/usr/src/app
+      # Map the target directory to local to avoid permission issues
+      # and persistent build artifacts
+      - ./target:/usr/src/app/target
+    environment:
+      - RUST_LOG=info
+    # Overwrite the command to keep the container running
+    tty: true
